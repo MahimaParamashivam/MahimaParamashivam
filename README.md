@@ -32,6 +32,6 @@ I'm an entry-level professional bringing a strong foundation in data analysis, s
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahimaParamashivam&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahimaParamashivam&show_icons=true)
 
 </div>
