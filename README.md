@@ -1,15 +1,37 @@
+<div align="center">
 
-I'm an entry-level professional seeking opportunities in Operations, Project Management, or Trainee programs — bringing a strong foundation in data analysis, structured problem-solving, and end-to-end project execution.
+# Hi, I'm Mahima 👋
 
-Through hands-on projects, I've built experience across the full lifecycle of taking an idea to a working solution: planning scope, analyzing data, and delivering clear, actionable outcomes. Highlights include:
+**Open to: Operations · Project Management Trainee · Business/Data Analyst · Graduate Trainee roles**
 
-🗳️ Designing a secure, anonymous voting system (BlindBallot) — end-to-end planning and implementation
-🧠 Building Power BI dashboards to turn raw data into insights (Mental Health Analytics)
-📦 Developing a predictive inventory management system to optimize forecasting (Python)
-🌸 Applying computer vision techniques for image classification
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimaparamashivam/)
 
-I enjoy breaking down complex problems, staying organized under ambiguity, and communicating findings in a way that drives decisions — skills I'm eager to bring to an operations or project coordination role.
+</div>
 
-Tools: Python | Power BI | Excel | Git | Jupyter
+---
 
-Open to entry-level opportunities — let's connect!
+### 🎯 About Me
+I'm an entry-level professional bringing a strong foundation in data analysis, structured problem-solving, and end-to-end project execution — looking to apply these skills in operations, project coordination, or analyst roles.
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🗳️ [BlindBallot](https://github.com/MahimaParamashivam/BlindBallot) | Secure, anonymous digital voting system | Python |
+| 🌸 [Gray-Scale-Flower-Image-Identification](https://github.com/MahimaParamashivam/Gray-Scale-Flower-Image-Identification) | Image classification using computer vision | Jupyter Notebook |
+| 🧠 [Mental Health Analytics](https://github.com/MahimaParamashivam/Mental-health-analytics-powerbi) | Dashboards turning raw data into insights | Power BI |
+| 📦 [Predictive Inventory Management](https://github.com/MahimaParamashivam/Predictive-Inventory-Management-System) | Forecasting & inventory optimization | Python |
+
+### 🛠️ Tools & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahimaParamashivam&show_icons=true&theme=tokyonight)
+
+</div>
