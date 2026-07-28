@@ -30,8 +30,8 @@ I'm an entry-level professional bringing a strong foundation in data analysis, s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahimaParamashivam&show_icons=true)
+
+
 
 </div>
