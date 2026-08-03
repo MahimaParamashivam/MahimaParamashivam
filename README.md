@@ -2,7 +2,7 @@
 
 # Hi, I'm Mahima 👋
 
-**Open to: Operations · Business/Data Analyst · HR · Graduate Trainee roles**
+**Open to: Project Management · Operations · Business/Data Analyst · HR · Graduate Trainee roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimaparamashivam/)
 
